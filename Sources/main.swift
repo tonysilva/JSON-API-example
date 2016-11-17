@@ -4,6 +4,9 @@
 //
 //  Created by Tony Silva on 18/10/16.
 //
+// Based on Perfect-JSON-API and Perfect-Weather copyright (c) 2016 PerfectlySoft, Inc.
+// Additional changes are licensed under the same terms as PerfectlySoft, Inc.
+// Licensed under Apache License v2.0
 //
 
 import PerfectLib
